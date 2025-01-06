@@ -1,6 +1,3 @@
-% I was not assigned parameters in project_values excel file, 
-% so I used the parameters in the first row of the file
-
 % steady-state temperature in our cylinder
 %% parameters, initializing and setting boundary conditions
 radius = 0.2;           % radius of the cylinder
